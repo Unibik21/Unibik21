@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Unibik21.Unibik21" />
 
+<h1 align="center">Hey there! I'm Utkarsh</h1>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Utkarsh+Chauhan;Full+Stack+Developer;DSA+Enthusiast;Building+CodeCrush+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Developer;DSA+Enthusiast;Building+CodeCrush+🚀" />
 </h1>
 
 <h3 align="center">🚀 Turning ideas into scalable web apps</h3>
