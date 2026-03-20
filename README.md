@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Unibik21.Unibik21" />
 
-<h1 align="center">Hey there! I'm Utkarsh</h1>
+<h1 align="center">Hey there 👋! I'm Utkarsh</h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Developer;DSA+Enthusiast;Building+CodeCrush+🚀" />
@@ -83,5 +83,5 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+😄;+Let's+build+something+awesome+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+😃;+Let's+build+something+awesome+🚀" />
 </h3>
