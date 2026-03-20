@@ -6,8 +6,6 @@
 
 <h3 align="center">🚀 Turning ideas into scalable web apps</h3>
 
----
-
 <div align="center">
 
 🔭 Currently building **CodeCrush**  
