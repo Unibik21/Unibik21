@@ -3,14 +3,14 @@
 <h1 align="center">Hey there 👋! I'm Utkarsh</h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Developer;DSA+Enthusiast;Building+CodeCrush+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Developer;DSA+Enthusiast;Building+Seatify+🚀" />
 </h1>
 
 <h3 align="center">🚀 Turning ideas into scalable web apps</h3>
 
 <div align="center">
 
-🔭 Currently building **CodeCrush**  
+🔭 Currently building **Seatify**  
 🌱 Learning **Backend Development, System Design & DSA**  
 💬 Ask me about **React, Node.js, Databases & Problem Solving**  
 
