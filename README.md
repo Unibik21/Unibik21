@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋! I'm Utkarsh</h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Developer;DSA+Enthusiast;Building+Seatify+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Developer;DSA+Enthusiast;Building+HireGPT+🚀" />
 </h1>
 
 <h3 align="center">🚀 Turning ideas into scalable web apps</h3>
