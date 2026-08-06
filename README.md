@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🔭 Currently building **HireGPT**  
+🔭 Currently building **gateway**  
 🌱 Learning **Backend Development, System Design & DSA**  
 💬 Ask me about **React, Node.js, Databases & Problem Solving**  
 
