@@ -53,8 +53,9 @@ whoami:
 <h3 align="center">🧩 &nbsp; LeetCode Stats</h3>
 <p align="center"><img src="https://leetcard.jacoblin.cool/unibik21?theme=dark&font=JetBrains%20Mono&ext=heatmap" /></p>
 
+<h3 align="center">📊 &nbsp; GitHub Insights</h3>
+
 <table align="center">
-  <h3 align="center">📊 &nbsp; GitHub Insights</h3>
 <tr>
 <td align="center">
 
@@ -64,8 +65,16 @@ whoami:
 
 <br/><br/>
 
+<img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Unibik21&layout=compact&theme=dracula&border_radius=12&hide_border=true&bg_color=0d1117" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=6EE7F9&center=true&vCenter=true&width=650&height=70&lines=Always+learning%2C+always+building+%F0%9F%9A%80;Let's+build+something+awesome+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=6EE7F9&center=true&vCenter=true&width=650&height=120&lines=Always+learning%2C+always+building+%F0%9F%9A%80;Let's+build+something+awesome+%F0%9F%A4%96" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=6EE7F9&animation=fadeIn&fontAlignY=65" width="100%"/>
