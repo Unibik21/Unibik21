@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=UTKARSH%20CHAUHAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20%26%20LLM%20Engineer%20⋅%20Backend%20%26%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=UTKARSH%20CHAUHAN&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -46,7 +46,7 @@ whoami:
 
 <h3 align="center">⚙️ &nbsp; Backend & Databases</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mongodb,mysql,redis&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis&theme=dark&perline=8" />
 </div>
 
 <h3 align="center">🌐 &nbsp; Frontend</h3>
