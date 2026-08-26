@@ -1,218 +1,139 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Unibik21.Unibik21" />
-
-<h1 align="center">Hey there 👋! I'm Utkarsh</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=ML+%26+LLM+Engineer;RAG+%26+AI+Systems;Backend+Engineer;DevOps+%26+System+Design;DSA+%26+Problem+Solving" />
-</h1>
-
-<h3 align="center">
-  🚀 Building intelligent, scalable & production-ready systems
-</h3>
-
 <div align="center">
 
-🔭 Currently building **ProxyPulse — A Scalable API Gateway & Distributed System**  
-🌱 Learning **LLMs, RAG, AI Systems, Backend Engineering & DevOps**  
-🧠 Exploring **Transformers, AI Agents, System Design & LLM Inference**  
-💬 Ask me about **C++, Backend, APIs, Redis, Databases, DSA & AI/ML**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=UTKARSH%20CHAUHAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20%26%20LLM%20Engineer%20⋅%20Backend%20%26%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=6EE7F9&center=true&vCenter=true&width=650&lines=building+scalable+AI+%2B+backend+systems;RAG+pipelines+%26+LLM+infra;distributed+systems+%26+API+gateways;always+shipping%2C+always+learning" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=6EE7F9" height="26"/>
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=6EE7F9" height="26"/>
+<img src="https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=6EE7F9" height="26"/>
+<img src="https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=6EE7F9" height="26"/>
+<img src="https://img.shields.io/badge/-Redis-0d1117?style=flat-square&logo=redis&logoColor=6EE7F9" height="26"/>
+<img src="https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=6EE7F9" height="26"/>
+<img src="https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=6EE7F9" height="26"/>
+
+<br/><br/>
+
+<a href="mailto:utkarshcha21@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" height="32"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/utkarsh-chauhan-401b00292/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="32"/></a>&nbsp;
+<a href="https://leetcode.com/unibik21/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="32"/></a>&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Unibik21.Unibik21&color=6EE7F9&style=for-the-badge&labelColor=0d1117" height="32"/>
 
 </div>
 
----
+<br/>
 
-<div align="center"> 
-  <a href="mailto:utkarshcha21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
+```yaml
+whoami:
+  role: ML / LLM Engineer & Backend Engineer
+  focus: RAG systems, AI agents, distributed backend architecture
+  currently_learning: [LLMs, Transformers, Agentic AI, System Design, Cloud & Deployment]
+  ask_me_about: [C++, Backend, APIs, Redis, Databases, DSA, AI/ML]
+```
 
-  <a href="https://www.linkedin.com/in/utkarsh-chauhan-401b00292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
+<br/>
 
-  <a href="https://leetcode.com/unibik21/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
+<h3 align="center">🧠 &nbsp; AI / ML / LLM</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark&perline=8" />
 </div>
 
----
+<h3 align="center">⚙️ &nbsp; Backend & Databases</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mongodb,mysql,redis&theme=dark&perline=8" />
+</div>
 
-<h2 align="center">🚀 Current Project</h2>
+<h3 align="center">🌐 &nbsp; Frontend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript&theme=dark&perline=8" />
+</div>
+
+<h3 align="center">🚀 &nbsp; DevOps & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark&perline=8" />
+</div>
+
+<br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/assets/line-neon.gif" width="100%"/>
+</div>
 
-<h3>⚡ ProxyPulse</h3>
+<br/>
 
-<p>
-  A production-oriented API Gateway designed for scalable microservice architectures.
-</p>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<table>
-  <tr>
-    <td>🔐 API Key Authentication</td>
-    <td>⚡ Redis-based Rate Limiting</td>
-  </tr>
-  <tr>
-    <td>🚀 Response Caching</td>
-    <td>❤️ Service Health Monitoring</td>
-  </tr>
-  <tr>
-    <td>📊 Prometheus Metrics</td>
-    <td>🔄 Dynamic Route Configuration</td>
-  </tr>
-  <tr>
-    <td>🐳 Dockerized Infrastructure</td>
-    <td>🏗️ Control Plane + Data Plane</td>
-  </tr>
+### 🤖 AI & LLM Journey
+- Large Language Models (LLMs)
+- Transformers & Attention Mechanisms
+- RAG Pipelines
+- Embeddings & Vector Databases
+- AI Agents & Agentic AI
+- LLM Inference & Deployment
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ Backend & Systems
+- Scalable Backend Systems & APIs
+- Authentication & API Key Management
+- Redis-based Rate Limiting & Caching
+- Prometheus Monitoring & Metrics
+- Dynamic Configuration Management
+- Distributed Systems & System Design
+
+</td>
+</tr>
 </table>
 
-</div>
-
----
-
-<h2 align="center">🧠 Tech Stack</h2>
-
-<h3 align="center">🤖 AI / ML / LLM</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-</div>
-
 <br/>
 
-<h3 align="center">⚙️ Backend & Databases</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mongodb,mysql,redis" />
-</div>
-
-<br/>
-
-<h3 align="center">🌐 Frontend</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript" />
-</div>
-
-<br/>
-
-<h3 align="center">🚀 DevOps & Tools</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode" />
-</div>
-
-<br/>
-
-<h3 align="center">💻 Programming</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
-</div>
-
----
-
-<h2 align="center">🤖 AI & LLM Journey</h2>
-
-<div align="center">
-
-🔹 Exploring <b>Large Language Models (LLMs)</b>  
-🔹 Learning <b>Transformers & Attention Mechanisms</b>  
-🔹 Building <b>RAG Pipelines</b>  
-🔹 Exploring <b>Embeddings & Vector Databases</b>  
-🔹 Learning <b>AI Agents & Agentic AI</b>  
-🔹 Understanding <b>LLM Inference & Deployment</b>
-
-</div>
-
----
-
-<h2 align="center">⚙️ Backend & Systems</h2>
-
-<div align="center">
-
-🚀 Scalable Backend Systems & APIs  
-🔐 Authentication & API Key Management  
-⚡ Redis-based Rate Limiting & Caching  
-📊 Prometheus Monitoring & Metrics  
-❤️ Service Health Monitoring  
-🔄 Dynamic Configuration Management  
-🐳 Docker & Containerization  
-🏗️ Distributed Systems & System Design
-
-</div>
-
----
-
-<h2 align="center">🧩 LeetCode Stats</h2>
-
+<h3 align="center">🧩 &nbsp; LeetCode Stats</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/unibik21?theme=dark&font=Nunito&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/unibik21?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 
----
-
-<h2 align="center">📊 GitHub Insights</h2>
-
+<h3 align="center">📊 &nbsp; GitHub Insights</h3>
 <div align="center">
 
-  <img 
-    width="390" 
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Unibik21&theme=tokyonight&border_radius=10" 
-  />
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Unibik21&show_icons=true&theme=dracula&rank_icon=github&border_radius=12&hide_border=true&bg_color=0d1117" />
+<img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Unibik21&theme=dracula&border_radius=12&hide_border=true&background=0d1117" />
 
-  <img 
-    width="390" 
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=Unibik21&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" 
-  />
+<br/>
+
+<img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Unibik21&layout=compact&theme=dracula&border_radius=12&hide_border=true&bg_color=0d1117" />
 
 </div>
 
 <br/>
 
 <div align="center">
-
-  <img 
-    width="320" 
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Unibik21&layout=compact&theme=tokyonight&border_radius=10" 
-  />
-
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/assets/line-neon.gif" width="100%"/>
 </div>
 
----
+<br/>
 
-<h2 align="center">⚡ What I Love Building</h2>
-
+<h3 align="center">⚡ &nbsp; What I Love Building</h3>
 <div align="center">
 
-🤖 AI-powered applications & LLM systems  
-🔎 RAG pipelines & intelligent search  
-⚙️ Scalable backend systems & APIs  
-🐳 Containerized & production-ready applications  
-🏗️ Distributed systems & system design  
-🧩 DSA & algorithmic problem solving  
+`AI-powered apps & LLM systems` &nbsp; `RAG pipelines & intelligent search` &nbsp; `Scalable backend APIs`
+<br/><br/>
+`Containerized, production-ready apps` &nbsp; `Distributed systems & system design` &nbsp; `DSA & problem solving`
 
 </div>
 
----
-
-<h2 align="center">📈 Currently Learning</h2>
+<br/>
 
 <div align="center">
-
-🧠 Machine Learning  
-🤖 Large Language Models  
-🔎 Retrieval-Augmented Generation  
-⚡ Transformers & Attention  
-🤝 Agentic AI  
-🏗️ System Design  
-🐳 Docker & DevOps  
-☁️ Cloud & Deployment  
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=6EE7F9&center=true&vCenter=true&width=550&lines=Always+learning%2C+always+building+🚀;Let's+build+something+awesome+🤖" />
 </div>
 
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Always+Learning%2C+Always+Building+🚀;Let's+Build+Something+Awesome+🤖" />
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
