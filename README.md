@@ -64,25 +64,8 @@ whoami:
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Unibik21&layout=compact&theme=dracula&border_radius=12&hide_border=true&bg_color=0d1117" />
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/assets/line-neon.gif" width="100%"/></div>
-
-<h3 align="center">⚡ &nbsp; What I Love Building</h3>
 <div align="center">
-
-`AI-powered apps & LLM systems` &nbsp; `RAG pipelines & intelligent search` &nbsp; `Scalable backend APIs`
-<br/>
-`Containerized, production-ready apps` &nbsp; `Distributed systems & system design` &nbsp; `DSA & problem solving`
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=6EE7F9&center=true&vCenter=true&width=650&height=70&lines=Always+learning%2C+always+building+%F0%9F%9A%80;Let's+build+something+awesome+%F0%9F%A4%96" />
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=6EE7F9&center=true&vCenter=true&width=550&lines=Always+learning%2C+always+building+🚀;Let's+build+something+awesome+🤖" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=footer" width="100%"/>
